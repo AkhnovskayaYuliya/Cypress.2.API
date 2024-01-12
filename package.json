@@ -1,0 +1,22 @@
+{
+  "name": "cypress.2.api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AkhnovskayaYuliya/Cypress.2.API.git"
+  },
+  "author": "akhnovskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhnovskayaYuliya/Cypress.2.API/issues"
+  },
+  "homepage": "https://github.com/AkhnovskayaYuliya/Cypress.2.API#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
